@@ -7,7 +7,6 @@
 </div>
 
 - 👋 Hello
-- 🌱 I’m currently learning about the PERN stack for a class project.
 
 
 <!---
